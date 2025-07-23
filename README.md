@@ -43,7 +43,7 @@
 * **PHP** (Vanilla PHP)
 * **HTML5/CSS3**
 * **MySQL** (Database)
-* **JavaScript** (for UI interactivity, optional)
+
 
 ---
 
@@ -83,7 +83,7 @@
 * Full-text search engine integration
 * Notifications for new uploads
 * Uploading mark schemes and answer guides
-
+* Improve the UI using ReactJS
 ---
 
 ## 🔍 **Implementation Notes**
